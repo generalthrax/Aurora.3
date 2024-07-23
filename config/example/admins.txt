@@ -5,4 +5,4 @@
 # Ranks can be anything defined in admin_ranks.json          ~Carn   #
 ######################################################################
 
-# GeneralThrax - Head Admin/Dev
+# generalthrax - Head Admin/Dev
